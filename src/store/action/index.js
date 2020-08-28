@@ -1,0 +1,1 @@
+export { moveToTrash, restoreItem ,addNewData} from "./action";

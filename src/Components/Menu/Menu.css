@@ -1,0 +1,18 @@
+.menu {
+  height: 100vh;
+  border-right: 1px solid #cccccc;
+}
+
+.menu-item {
+  width: 100%;
+  display: block;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu-item:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #cccccc;
+}

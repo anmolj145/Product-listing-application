@@ -1,0 +1,35 @@
+.no-data{
+    padding: 50px; 
+}
+
+.description-div{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.description-image{
+    margin-top: 50px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-color: red;
+    display: inline-block;
+}
+
+.description-image:hover{
+    transform: scale(1.5);
+}
+
+.title-div{
+    padding: 20px ;
+    background-color: #cccccc;
+    width:50%;
+    margin-left: 10%;
+    display: inline-block; 
+}
+
+.title{
+    width: 100px;
+    display: block;
+    font-size: 20px;
+}
